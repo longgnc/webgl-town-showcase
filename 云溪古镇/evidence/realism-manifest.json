@@ -1,0 +1,33 @@
+{
+  "revision": "realism-and-sign-clearance-20261112",
+  "buildings": 484,
+  "crowd_total": 279,
+  "crowd_default": "off on every launch",
+  "signs_checked": 98,
+  "sign_overlaps": 0,
+  "runtime_checks_passed": 30,
+  "console_errors": [],
+  "validation": "Edge via loopback HTTP; standalone HTML and editable project",
+  "files": {
+    "云溪古镇/index.html": {
+      "bytes": 3844,
+      "sha256": "a81e10bb3591d05f4b41a0a50ff2456c2fac1b7107268dc8e808b9db943d51a4"
+    },
+    "云溪古镇/town.js": {
+      "bytes": 62540,
+      "sha256": "6b14c4f005d40cee3c7642bcb6119deed7728923758dc9598de208072ea45208"
+    },
+    "云溪古镇/realism.js": {
+      "bytes": 3044,
+      "sha256": "80be62945f4d67e17dfbf8af46d7270944bb76ac9c547a8cd29a14e790c22e52"
+    },
+    "云溪古镇/vendor/jimao-engine.js": {
+      "bytes": 1399550,
+      "sha256": "e5eef65d6efa8526fdc57fac2333d833056adc371d63d54deac1054c96eee15f"
+    },
+    "云溪古镇_离线漫游.html": {
+      "bytes": 1475261,
+      "sha256": "d5c05e1ba2ae3878c1896e2aaf27d890f889e8b0549a5c5f6568d61eb002c722"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+from pathlib import Path
+p=Path(__file__).with_name('scene.js');s=p.read_text(encoding='utf-8')
+s=s.replace("name:'沿河茶肆',x:riverX(-56)-22,z:-56,yaw:-Math.PI/2", "name:'沿河茶肆',x:riverX(-56)-22,z:-56,yaw:Math.PI/2")
+s=s.replace("if(frame%18===1){updateLanterns();", "if(worldDt>0&&frame%12===0&&quality!=='low')renderer.shadowMap.needsUpdate=true;if(frame%18===1){updateLanterns();")
+s=s.replace("let audioCtx,master,riverGain,windGain,", "let audioCtx,master,riverGain,windGain,marketGain,")
+s=s.replace("windGain=loop(550,.3,.1);riverGain=loop(1900,.55,.25);", "windGain=loop(550,.3,.1);riverGain=loop(1900,.55,.25);marketGain=loop(320,1.2,.02);")
+s=s.replace("if(active&&moving&&t-lastStep>", "marketGain.gain.setTargetAtTime((.012+.012*Math.sin(t*1.7)**2)*Math.exp(-Math.abs(camera.position.x-riverX(camera.position.z))/90),audioCtx.currentTime,.3);if(active&&mode==='walk'&&Math.floor(t*1.4)!==Math.floor((t-dt)*1.4))note(range(160,360),.05,.006,'triangle',80);if(active&&moving&&t-lastStep>")
+s=s.replace("addEventListener('keydown',e=>{if(e.target.matches", "addEventListener('keydown',e=>{if(!openingFinished)return;if(e.target.matches")
+p.write_text(s,encoding='utf-8')
+css=p.with_name('style.css');c=css.read_text(encoding='utf-8');c+='\n.unfolding #mast,.unfolding #hud,.unfolding #chapters{pointer-events:none;visibility:hidden}\n';css.write_text(c,encoding='utf-8')
+print('Final source ready.')

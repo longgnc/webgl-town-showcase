@@ -1,0 +1,23 @@
+{
+  "file": "几猫国产3A大作_V1.html",
+  "bytes": 1425707,
+  "sha256": "9e55b5200b088adaf8e1152da04efc0d3b25e236e6baf2dee96f81e23e084966",
+  "inline_script_count": 1,
+  "external_script_sources": [],
+  "three_revision_literal": [
+    "180"
+  ],
+  "counts": {
+    "fetch(": 3,
+    "WebSocket": 0,
+    "XMLHttpRequest": 0,
+    "AudioContext": 6,
+    "localStorage": 2,
+    "requestPointerLock": 2,
+    "https://": 0,
+    "http://": 1,
+    "GLTFLoader": 0,
+    "FBXLoader": 0
+  },
+  "note": "Counts include embedded library capabilities. Inspect call sites and actual browser requests before deciding whether a backend exists."
+}

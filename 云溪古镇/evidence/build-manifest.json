@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-12",
+  "reference_sha256": "9e55b5200b088adaf8e1152da04efc0d3b25e236e6baf2dee96f81e23e084966",
+  "seed": 20261112,
+  "town_bounds_m": [
+    640,
+    640
+  ],
+  "buildings": 484,
+  "population": 279,
+  "market_stalls": 40,
+  "standalone_bytes": 1465672,
+  "files": {
+    "index.html": "8efbdba4a32898e3fb77684d798af26c9efbe3b171f1ee1401e6d5b573947689",
+    "style.css": "4626d3ff2554b23985c12916c18f271a436ffe48950e26ccf877dfe14301df08",
+    "town.js": "1678fb178b3d82ede5c801667217e81758c83374e17f418b5810ff323dd65aeb",
+    "vendor\\jimao-engine.js": "e64ad1afe25b8d9342d9eea6026a3a7578706361c3a9812b215717e6cdf87784"
+  },
+  "crowd_default": "hidden",
+  "crowd_shortcut": "N"
+}

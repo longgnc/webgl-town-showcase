@@ -1,0 +1,6 @@
+60 FPS · 426 draw calls
+1,905,961 triangles
+484 栋建筑 · 279 位居民游客（隐藏）
+870 碰撞体
+high · drag · running
+动态采样 []

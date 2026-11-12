@@ -1,0 +1,254 @@
+[
+  {
+    "asset": "pavement_01",
+    "source": "https://polyhaven.com/a/pavement_01",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "pavement_01\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_01/pavement_01_diff_2k.jpg",
+        "bytes": 1782516
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "pavement_01\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_01/pavement_01_nor_gl_2k.jpg",
+        "bytes": 1834002
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "pavement_01\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_01/pavement_01_rough_1k.jpg",
+        "bytes": 380501
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "pavement_01\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_01/pavement_01_disp_1k.jpg",
+        "bytes": 176101
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "pavement_01\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/pavement_01/pavement_01_ao_1k.jpg",
+        "bytes": 344225
+      }
+    ]
+  },
+  {
+    "asset": "weathered_brown_planks",
+    "source": "https://polyhaven.com/a/weathered_brown_planks",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "weathered_brown_planks\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/weathered_brown_planks/weathered_brown_planks_diff_2k.jpg",
+        "bytes": 911358
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "weathered_brown_planks\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/weathered_brown_planks/weathered_brown_planks_nor_gl_2k.jpg",
+        "bytes": 1029733
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "weathered_brown_planks\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_brown_planks/weathered_brown_planks_rough_1k.jpg",
+        "bytes": 234672
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "weathered_brown_planks\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_brown_planks/weathered_brown_planks_disp_1k.jpg",
+        "bytes": 111030
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "weathered_brown_planks\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_brown_planks/weathered_brown_planks_ao_1k.jpg",
+        "bytes": 137846
+      }
+    ]
+  },
+  {
+    "asset": "white_plaster_02",
+    "source": "https://polyhaven.com/a/white_plaster_02",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "white_plaster_02\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_02/white_plaster_02_diff_2k.jpg",
+        "bytes": 2568315
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "white_plaster_02\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_02/white_plaster_02_nor_gl_2k.jpg",
+        "bytes": 3379814
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "white_plaster_02\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_rough_1k.jpg",
+        "bytes": 295900
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "white_plaster_02\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_disp_1k.jpg",
+        "bytes": 282756
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "white_plaster_02\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_ao_1k.jpg",
+        "bytes": 528899
+      }
+    ]
+  },
+  {
+    "asset": "grey_roof_tiles",
+    "source": "https://polyhaven.com/a/grey_roof_tiles",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "grey_roof_tiles\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_diff_2k.jpg",
+        "bytes": 2039152
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "grey_roof_tiles\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_nor_gl_2k.jpg",
+        "bytes": 1504796
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "grey_roof_tiles\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_tiles/grey_roof_tiles_rough_1k.jpg",
+        "bytes": 260780
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "grey_roof_tiles\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_tiles/grey_roof_tiles_disp_1k.jpg",
+        "bytes": 168472
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "grey_roof_tiles\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_tiles/grey_roof_tiles_ao_1k.jpg",
+        "bytes": 251878
+      }
+    ]
+  },
+  {
+    "asset": "stone_brick_wall_001",
+    "source": "https://polyhaven.com/a/stone_brick_wall_001",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "stone_brick_wall_001\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_brick_wall_001/stone_brick_wall_001_diff_2k.jpg",
+        "bytes": 1066112
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "stone_brick_wall_001\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_brick_wall_001/stone_brick_wall_001_nor_gl_2k.jpg",
+        "bytes": 1409900
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "stone_brick_wall_001\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_brick_wall_001/stone_brick_wall_001_rough_1k.jpg",
+        "bytes": 197026
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "stone_brick_wall_001\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_brick_wall_001/stone_brick_wall_001_disp_1k.jpg",
+        "bytes": 71882
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "stone_brick_wall_001\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_brick_wall_001/stone_brick_wall_001_ao_1k.jpg",
+        "bytes": 238753
+      }
+    ]
+  },
+  {
+    "asset": "brown_mud_dry",
+    "source": "https://polyhaven.com/a/brown_mud_dry",
+    "license": "CC0",
+    "maps": [
+      {
+        "channel": "diff",
+        "resolution": "2k",
+        "file": "brown_mud_dry\\diff.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_dry/brown_mud_dry_diff_2k.jpg",
+        "bytes": 3519711
+      },
+      {
+        "channel": "nor_gl",
+        "resolution": "2k",
+        "file": "brown_mud_dry\\nor_gl.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud_dry/brown_mud_dry_nor_gl_2k.jpg",
+        "bytes": 5092913
+      },
+      {
+        "channel": "rough",
+        "resolution": "1k",
+        "file": "brown_mud_dry\\rough.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_rough_1k.jpg",
+        "bytes": 390385
+      },
+      {
+        "channel": "disp",
+        "resolution": "1k",
+        "file": "brown_mud_dry\\disp.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_disp_1k.jpg",
+        "bytes": 244249
+      },
+      {
+        "channel": "ao",
+        "resolution": "1k",
+        "file": "brown_mud_dry\\ao.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_ao_1k.jpg",
+        "bytes": 568420
+      }
+    ]
+  }
+]
