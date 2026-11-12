@@ -2,6 +2,28 @@
 
 在浏览器中漫步于白墙灰瓦、木楼临水的滇西风格古镇。本仓库保存云溪古镇、清明上河图场景、单文件交付、制作说明和可复用的制作技能。
 
+## 项目动态预览
+
+以下 GIF 从用户提供的两段完整实机录屏中选取，展示场景、漫游与不同光照效果；每张约 10 秒、循环播放，无音频。点击动图或下方链接可获取完整原始 MP4。
+
+### 清明上河图 · 步入汴京
+
+沿汴河探索虹桥、城门与街市，从鸟瞰长卷到近景漫游，感受雨霁、斜阳和灯火中的古城。
+
+[![清明上河图实机动态预览：鸟瞰、桥面漫游及光景变化](docs/media/qingming-preview.gif)](https://github.com/longgnc/webgl-town-showcase/releases/download/showcase-recordings-2026-11-12/qingming-full-recording.mp4)
+
+[在线体验](https://longgnc.github.io/webgl-town-showcase/清明上河图_完整漫游.html) · [下载完整视频（约 3 分 13 秒，130 MiB）](https://github.com/longgnc/webgl-town-showcase/releases/download/showcase-recordings-2026-11-12/qingming-full-recording.mp4)
+
+### 云溪古镇 · 风过滇西
+
+沿着六桥两岸的石板路行走，探索临水木楼与古镇街巷，欣赏日间水色、暖光和夜间灯火。
+
+[![云溪古镇实机动态预览：河街、石桥及昼夜光景](docs/media/yunxi-preview.gif)](https://github.com/longgnc/webgl-town-showcase/releases/download/showcase-recordings-2026-11-12/yunxi-full-recording.mp4)
+
+[在线体验](https://longgnc.github.io/webgl-town-showcase/) · [下载完整视频（约 3 分 1 秒，131 MiB）](https://github.com/longgnc/webgl-town-showcase/releases/download/showcase-recordings-2026-11-12/yunxi-full-recording.mp4)
+
+两段原视频均为 1440 × 900，保持用户提供文件的完整内容；因单文件超过普通 Git 文件大小限制，存放在 [GitHub Releases 视频附件](https://github.com/longgnc/webgl-town-showcase/releases/tag/showcase-recordings-2026-11-12)。GIF 存放在仓库的 `docs/media/`，节选时间点见同目录 `preview-sources.json`。这些原始录屏与下文的 70 秒剪辑宣传片分别保留。
+
 ## 公网体验
 
 - **[进入云溪古镇](https://longgnc.github.io/webgl-town-showcase/)**

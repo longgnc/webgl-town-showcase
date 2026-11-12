@@ -1,0 +1,30 @@
+[
+  {
+    "project": "清明上河图",
+    "source_filename": "清明上河图.mp4",
+    "excerpt_start_seconds": [
+      38,
+      64,
+      101,
+      178
+    ],
+    "seconds_per_excerpt": 2.5,
+    "fps": 8,
+    "width": 560,
+    "file": "qingming-preview.gif"
+  },
+  {
+    "project": "云溪古镇",
+    "source_filename": "云溪古镇.mp4",
+    "excerpt_start_seconds": [
+      20,
+      57,
+      110,
+      170
+    ],
+    "seconds_per_excerpt": 2.5,
+    "fps": 8,
+    "width": 560,
+    "file": "yunxi-preview.gif"
+  }
+]
