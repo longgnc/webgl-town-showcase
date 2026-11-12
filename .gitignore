@@ -6,3 +6,7 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+宣传片/原始素材/
+宣传片/成片/
+.local/

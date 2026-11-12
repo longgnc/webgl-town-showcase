@@ -1,0 +1,13 @@
+独立 HTML，Edge，1432×687，默认高画质，石板近景
+26 FPS · 808 calls · 1,365,704 triangles
+214 栋建筑 · 人物已关闭 · 14 船
+PBR 6 组 · 近景瓦面 16 · 原版 HDR / AO / 体积光
+inspect · lock · 音频未解锁
+运动采样 []
+
+均衡画质，夜景，城门鸟瞰
+26 FPS · 971 calls · 2,142,141 triangles
+214 栋建筑 · 人物已关闭 · 14 船
+PBR 6 组 · 近景瓦面 8 · 原版 HDR / AO / 体积光
+bird · lock · running
+运动采样 []

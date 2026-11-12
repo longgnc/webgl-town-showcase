@@ -1,0 +1,44 @@
+[
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (68,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:37:27.247Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE/vendor/jimao-engine.js"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (81,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:37:27.247Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE/vendor/jimao-engine.js"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (64,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(64,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:37:27.247Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE/vendor/jimao-engine.js"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (68,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:41:42.514Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE_%E5%86%99%E5%AE%9E%E4%BC%98%E5%8C%96.html?qa=1"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (81,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:41:42.583Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE_%E5%86%99%E5%AE%9E%E4%BC%98%E5%8C%96.html?qa=1"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (64,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(64,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:41:43.111Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE_%E5%86%99%E5%AE%9E%E4%BC%98%E5%8C%96.html?qa=1"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.WebGLProgram: Program Info Log: (81,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value",
+    "timestamp": "2026-11-12T03:42:36.119Z",
+    "url": "http://127.0.0.1:8770/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE_%E5%86%99%E5%AE%9E%E4%BC%98%E5%8C%96.html?qa=1"
+  }
+]
